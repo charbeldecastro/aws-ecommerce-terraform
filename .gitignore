@@ -146,3 +146,4 @@ vite.config.ts.timestamp-*
 .terraform/
 *.tfstate
 *.tfstate.*
+lambda_function.zip
