@@ -378,3 +378,28 @@ O projeto demonstra na prática:
 - Amazon EC2
 - Provisionamento automatizado na AWS
 - Versionamento com Git e GitHub
+
+## Material de estudo
+
+Além da documentação técnica do projeto, foi criada uma apostila completa de estudo baseada na implementação realizada durante o Projeto Avançado.
+
+O material aborda:
+
+- Arquitetura da solução
+- Terraform e Infraestrutura como Código (IaC)
+- Amazon VPC e Security Groups
+- Amazon EC2
+- AWS IAM
+- Amazon SQS
+- AWS Lambda
+- Amazon CloudWatch
+- APIs com Node.js
+- Git e GitHub
+- Troubleshooting
+- Segurança e boas práticas
+- Custos AWS
+- Encerramento seguro dos recursos com Terraform
+
+A apostila também contém perguntas de revisão, simulado, glossário, comandos importantes e um desafio para reconstruir o projeto.
+
+📄 [Acessar a apostila completa](docs/apostila-projeto-avancado.pdf)
